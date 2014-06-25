@@ -1,0 +1,30 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 13:55:44 июн 18, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:42:06 июн 18, 2014.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+.evaluateElementCell{padding:0px 20px 0px 0px;vertical-align:top;width:50%;height:190px;}
+div.evaluateElementCellTitle{font-size:110%;font-weight:bold;}
+div#evaluateRefreshAll{margin-bottom:20px;}
+div.evaluateElementCellTitleEng{color:gray;font-size:85%;}
+.evaluateElementCellProgress{color:#999999;font-size:85%;}
+.evaluateRatesArea{width:250px;text-align:left;}
+.evaluateRatesArea .h1{font-weight:normal;font-size:130%;margin:0px 0px 10px 10px;}
+.evaluateRatesArea .navigation{font-size:150%;float:right;}
+.evaluateRatesArea .navigation .active, .evaluateRatesArea .navigation .active:hover{text-decoration:none;cursor:pointer;}
+.evaluateRatesArea .navigation .active{color:#000000;}
+.evaluateRatesArea .navigation .active:hover{color:#037fdf;}
+.evaluateRatesArea .navigation .inactive{color:#cccccc;}
+.evaluateRatesArea .item1, .evaluateRatesArea .item0{padding:10px 10px 10px 10px;font-size:90%;}
+.evaluateRatesArea .item0{background-color:#F6F6F6;}
+.evaluateRatesArea .hintArrow{margin-top:5px;padding-left:40px;}
+.evaluateRatesArea .hint{background-color:#CEEACB;font-size:90%;padding:5px;}
