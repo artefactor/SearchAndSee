@@ -99,4 +99,3 @@ class C implements Driver{
 	}
 
 }
-*/
