@@ -1,0 +1,56 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 16:44:51 окт 11, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:17:27 июн 17, 2014.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+#datepicker_div{margin:0;margin-top:0px;border:1px solid #AAA;z-index:91;background-color:#fff;padding:2px;-moz-border-radius-topleft:5px;-webkit-border-top-left-radius:5px;-moz-border-radius-topright:5px;-webkit-border-top-right-radius:5px;-moz-border-radius-bottomleft:5px;-webkit-border-bottom-left-radius:5px;-moz-border-radius-bottomright:5px;-webkit-border-bottom-right-radius:5px;}
+div.ui-datepicker-header
+{background-color:#EF611A!important;padding:0.3em 0.6em;text-align:center;-moz-border-radius-topleft:5px;-webkit-border-top-left-radius:5px;-moz-border-radius-topright:5px;-webkit-border-top-right-radius:5px;-moz-border-radius-bottomleft:5px;-webkit-border-bottom-left-radius:5px;-moz-border-radius-bottomright:5px;-webkit-border-bottom-right-radius:5px;}
+*:first-child+html #datepicker_div{background-color:#EF611A;padding:0;}
+.ui-datepicker-current,
+.ui-datepicker-inline,
+.ui-datepicker-clear,
+.ui-datepicker-close{display:none;}
+.ui-datepicker-prev,
+.ui-datepicker-next{display:block;float:left;cursor:pointer;margin-top:-0.3em;}
+.ui-datepicker-next{padding-right:0.6em;}
+.ui-datepicker-prev{padding-left:0.6em;}
+.ui-datepicker-prev a,
+.ui-datepicker-next a{text-decoration:none;color:#fff;font-weight:bold;font-size:1.8em;}
+.ui-datepicker-next{float:right;text-align:right;}
+.ui-datepicker{clear:both;margin-top:1px;border:1px solid #fff;border-collapse:collapse;}
+*:first-child+html .ui-datepicker{clear:both;padding-top:1px;border:none;border-collapse:collapse;background-color:#fff;}
+.ui-datepicker-title-row td,
+.ui-datepicker-days-row td{border:1px solid #fff;}
+.ui-datepicker .ui-datepicker-days-row .ui-datepicker-days-cell{color:#000;background-color:#FFD8C4;text-align:center;vertical-align:middle;padding:0.1em 0.6em;margin:0;}
+.ui-datepicker .ui-datepicker-days-row .ui-datepicker-days-cell a{color:#FF5500;text-decoration:underline;font-size:0.9em;}
+.ui-datepicker .ui-datepicker-days-row .ui-datepicker-week-end-cell a{color:#FF2A21;}
+.ui-datepicker .ui-datepicker-days-row .ui-datepicker-week-end-cell
+{background-color:#FFB189;}
+.ui-datepicker .ui-datepicker-days-row .ui-datepicker-unselectable
+{font-size:0.9em;color:#BDBDBD;}
+.ui-datepicker a{color:#46494e;cursor:pointer;}
+.ui-datepicker .ui-datepicker-days-row .ui-datepicker-today{background-color:#007EE1;color:white;}
+.ui-datepicker .ui-datepicker-days-row .ui-datepicker-today a{color:white;}
+.ui-datepicker .ui-datepicker-days-row .ui-datepicker-current-day{background-color:#EF611A;color:#fff;font-weight:bold;}
+.ui-datepicker .ui-datepicker-days-row .ui-datepicker-current-day a{color:#fff;cursor:default;}
+.ui-datepicker .ui-datepicker-title-row td
+{padding:0.1em 0.6em;margin:0;background-color:#BDBDBD;}
+.ui-datepicker .ui-datepicker-title-row a
+{color:#46494e;font-size:0.9em;text-decoration:none;}
+.ui-datepicker .ui-datepicker-title-row td.ui-datepicker-week-end-cell
+{background-color:#7B7B7B;}
+.ui-datepicker .ui-datepicker-title-row td.ui-datepicker-week-end-cell a
+{color:#000;}
+select.ui-datepicker-new-month,
+select.ui-datepicker-new-year{font-size:0.9em;}
+.ui-datepicker-trigger{background:transparent;border-bottom:1px dashed #808080;color:#808080!important;cursor:pointer;font-family:Arial,Verdana,Tahoma!important;font-size:11px;text-decoration:none!important;}

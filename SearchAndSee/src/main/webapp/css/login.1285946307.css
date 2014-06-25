@@ -1,0 +1,28 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 16:44:59 окт 11, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:17:26 июн 17, 2014.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+div.loginform_highlight{background:#ff8d00 url('/web/20101011164459/http://s.imhonet.ru/img/login_bg_bottom.gif') 0% 100% repeat-x;margin:0px;}
+.loginPopup{display:none;position:absolute;background-color:#ff8d00;color:#ffffff;width:190px;padding:0px;}
+.loginPopup, .loginPopup login_in_header{}
+#loginPopup td{height:auto;}
+.loginPopup a, .loginPopup a:visited
+{color:#ffffff!important;font-weight:bold;font-size:85%;}
+.loginPopup .mb5{margin-bottom:5px;}
+.loginPopup input.enterbut{background:#9aa3ac url('/web/20101011164459/http://s.imhonet.ru/img/registration/button_login_submit.gif') 0% 50% no-repeat;cursor:pointer;width:49px;height:19px;color:#333333;font-size:11px;line-height:16px;margin:0;padding:0;border:0;outline:0;}
+.loginPopup #authorizeResult, .loginPopup #authorizeOpenIdResult{font-size:85%;}
+div.loginform{margin:0px;z-index:9;background:none;color:white;padding:10px 15px 15px 5px;}
+div.loginform_left{background:transparent url('/web/20101011164459/http://s.imhonet.ru/img/loginform_left.gif') 0% 100% no-repeat;}
+div.loginform_right{background:transparent url('/web/20101011164459/http://s.imhonet.ru/img/loginform_right.gif') 100% 100% no-repeat;}
+div.loginform input{max-width:110px;}
+div.loginform td.ptb3{padding-top:3px;padding-bottom:3px;}

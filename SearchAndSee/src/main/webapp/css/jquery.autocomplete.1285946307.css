@@ -1,0 +1,24 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 16:44:47 окт 11, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:17:27 июн 17, 2014.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+.ac_results{padding:0px;border:1px solid black;background-color:white;overflow:hidden;z-index:99999;display:none;}
+.ac_results ul{width:100%;list-style-position:outside;list-style:none;padding:0;margin:0;}
+.ac_results li{margin:0px;padding:2px 5px;cursor:default;display:block;font:menu;font-size:11px;line-height:16px;overflow:hidden;}
+.ac_loading{background:white url('/web/20101011164447/http://s.imhonet.ru/css/indicator.gif') right center no-repeat;}
+.ac_odd{background-color:white;}
+.ac_over{background-color:#eee;}
+.suggestionsBox{position:absolute;width:200px;background-color:#EDEDED;border:1px solid #000;color:#000;}
+.suggestionList{margin:0px;padding:0px;}
+.suggestionList td{margin:0px 0px 3px 0px;padding:3px;cursor:pointer;width:100%;}
+.suggestionList td:hover{background-color:#659CD8;width:100%;}
