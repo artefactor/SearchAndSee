@@ -33,7 +33,6 @@ public class FilmConnectionFactory {
 		try {
 			Class.forName(mydriver);// Регистрируем драйвер
 		} catch (ClassNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		Connection conn = null;// Соединение с БД
@@ -55,10 +54,9 @@ public class FilmConnectionFactory {
 															// каждой строки
 															// выводим значение
 															// из колонки
-			
 
 			}
-			
+
 		} catch (Exception e) {
 			e.printStackTrace();
 		} finally {
@@ -67,7 +65,6 @@ public class FilmConnectionFactory {
 				if (conn != null)
 					conn.close();
 			} catch (SQLException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 		}
