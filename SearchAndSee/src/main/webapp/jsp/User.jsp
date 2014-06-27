@@ -131,7 +131,8 @@
 <div id="HeadNavigation2">
 	<div id="breadcrumbs"></div>
 	<div id="head_h1" class="headline h1 di fg_films">Привет,
-		киноман!</div>
+		<jsp:include page="CheckoutPage.jsp"></jsp:include>
+		</div>
 	<div></div>
 </div>
 <hr>

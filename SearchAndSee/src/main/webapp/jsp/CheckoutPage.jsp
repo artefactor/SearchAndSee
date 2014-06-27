@@ -17,9 +17,10 @@ for(Cookie cookie : cookies){
 }
 }
 %>
-<h3>Hi <%=userName %>, do the checkout.</h3>
+<h3>Hi  <%   if (userName!=null){ out.print(userName);} else {out.print("киноман");} %>!</h3>
 <br>
-<form action="../LogoutServlet" method="post">
+
+<form action="<%=getServletContext().getContextPath() %>/LogoutServlet" method="post">
 <input type="submit" value="Logout" >
 </form>
 </body>

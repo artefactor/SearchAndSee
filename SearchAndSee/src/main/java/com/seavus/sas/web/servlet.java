@@ -15,7 +15,7 @@ import com.seavus.sas.model.Film;
  * Servlet implementation class servlet
  */
 public class servlet extends HttpServlet {
-	private static final String FILMS_JSP = "jsp/main.jsp";
+	private static final String FILMS_JSP = "jsp/Main.jsp";
 	private static final long serialVersionUID = 1L;
 
 	/**
